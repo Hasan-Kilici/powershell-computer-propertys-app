@@ -1,0 +1,1 @@
+# powershell-computer-propertys-app
